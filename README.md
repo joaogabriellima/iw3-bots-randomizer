@@ -44,3 +44,8 @@ IWD_PATH = "C:\\Users\\YourUser\\AppData\\Local\\Plutonium\\storage\\iw5\\z_svr_
     "TeForzz"
 ]
 ```
+
+## Credits
+
+- [Plutonium](https://plutonium.pw/)
+- [iw3 bot warfare](https://github.com/ineedbots/iw3_bot_warfare)
