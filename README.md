@@ -1,9 +1,8 @@
-# 🎯 MW3 Bot Nickname Randomizer
+# MW3 Bot Nickname Randomizer
 
 This is a simple Python script that personalizes bot names in **Call of Duty: Modern Warfare 3 (Plutonium Mod)** by randomizing 18 unique nicknames every time you run it. Adds variety and immersion to solo matches!
 
 > Made for the OGs still playing MW3 even after their squad moved on.
-
 
 
 ## What does it do?
